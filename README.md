@@ -2,7 +2,7 @@ DISCLAIMER THIS IS SOURCE CODE EXE VERSION IS AT https://imjustaguy96.itch.io/ar
 
 Arcade Flashback Classics
 
-A retro arcade collection, called Arcade Flashback Classics, following the journey of three classic games packed together in one program. Join the fun on this adventure as you battle aliens, guide your snake, and flap through the sky to conquer every retro challenge.Imade this for Terra theme was antique and i love old games like flappy bird so this inspired me
+A retro arcade collection, called Arcade Flashback Classics, following the journey of three classic games packed together in one program. Join the fun on this adventure as you battle aliens, guide your snake, and flap through the sky to conquer every retro challenge.Imade this for Terra theme was antique and i love old games like flappy bird so this inspired me.made in pygame in vscode compiled with pyinstaller into one exe
 
 Installation Instructions
 
