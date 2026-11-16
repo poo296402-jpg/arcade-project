@@ -102,3 +102,6 @@ Double-click menu.py to launch the arcade hub and start playing instantly!
 - **Down Arrow / Spacebar**: Pull and release plunger to launch ball
 - **R**: Restart after Game Over
 - **Escape (ESC)**: Return to main menu
+
+<img width="488" height="783" alt="Screenshot 2026-11-16 041603" src="https://github.com/user-attachments/assets/3b2377d3-a964-4075-9744-7614df823060" />
+
